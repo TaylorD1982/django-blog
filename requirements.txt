@@ -38,7 +38,6 @@ psycopg2-binary==2.8.4
 py==1.8.1
 pyasn1==0.4.8
 pycrypto==2.6.1
-pygobject==3.26.1
 pylint==1.9.5
 pylint-django==0.8.0
 pylint-flask==0.5
